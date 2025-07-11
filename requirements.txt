@@ -1,0 +1,3 @@
+PyYAML
+schema
+yeti_switch_api
