@@ -1,0 +1,6 @@
+
+api:
+  user: "api-client"
+  password: "222222222"
+  endpoint: "https://yeti.example.com/api/rest/admin/"
+
